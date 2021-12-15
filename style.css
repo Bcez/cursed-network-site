@@ -1,3 +1,7 @@
+h1{
+    background:linear-gradient cyan 9%, blue 100%;
+}
+
 body{
     text-align:center;
     background-color: darkslategrey;
